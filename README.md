@@ -2,7 +2,7 @@
 
 
 ### Download
-- Download [Here](https://github.com/MiuiAOSP/MiuiAOSP/releases/tag/HyperOsAboutDevice)
+- Download [Here](https://github.com/MiuiAOSP/Miui-HyperOs-Layouts/releases/tag/HyperOsAboutDevice)
 
 ### Note
 - Miui Device Layout 
